@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "B07VT2HJ91",
+      "name": "Breed Dry Dog Food",
+      "brand": "Amazon",
+      "category": "Electronics",
+      "price": 100,
+      "description": "Give your furry friend the nutrition they need with our Breed Dry Dog Food. Specially formulated for breed-specific needs, this premium dog food will keep your pet happy and healthy.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61c%2BQyXyuHL._AC_SL1000_.jpg",
+      "rating": 3.0,
+      "reviews": 35
+    },
+    {
+      "id": "B07K3KBJZ9",
+      "name": "CANON EOS DSLR Camera",
+      "brand": "Canon",
+      "category": "Electronics",
+      "price": 360,
+      "description": "Capture life's moments in stunning detail with the CANON EOS DSLR Camera. Whether you're a beginner or a professional photographer, this camera will elevate your photography experience.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51CVJ4eM54L._AC_SL1000_.jpg",
+      "rating": 4.0,
+      "reviews": 95
+    },
+    {
+      "id": "B085M84XWK",
+      "name": "ASUS FHD Gaming Laptop",
+      "brand": "Asus",
+      "category": "Electronics",
+      "price": 700,
+      "description": "Experience unparalleled gaming performance with the ASUS FHD Gaming Laptop. Packed with cutting-edge features and powerful hardware, this laptop will take your gaming to the next level.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51CgKGfMelL._AC_SL1000_.jpg",
+      "rating": 5.0,
+      "reviews": 325 
+    },
+    {
+      "id": "B08G9F63C2",
+      "name": "Curology Product Set",
+      "brand": "Curology",
+      "category": "Beauty & Personal Care",
+      "price": 500,
+      "description": "Discover radiant skin with the Curology Product Set. Formulated with dermatologist-selected ingredients, this set is tailored to your unique skincare needs, leaving your skin healthy and glowing.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg",
+      "rating": 4.0,
+      "reviews": 145
+    },
+    {
+      "id": "B08N5YP41P",
+      "name": "Kids Electric Car",
+      "brand": "Kids Electric",
+      "category": "Toys & Games",
+      "price": 960,
+      "description": "Give your little one the thrill of driving with the Kids Electric Car. With realistic design and safe controls, it's the perfect toy for outdoor adventures.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71SvGjPxv5L._AC_SL1500_.jpg",
+      "rating": 5.0,
+      "reviews": 65
+    },
+    {
+      "id": "B07GBXGTTT",
+      "name": "Jr. Zoom Soccer Cleats",
+      "brand": "Jr. Zoom",
+      "category": "Sports & Outdoors",
+      "price": 1160,
+      "description": "Dominate the field with the Jr. Zoom Soccer Cleats. Designed for agility and control, these cleats will elevate your game to the next level.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71RiQZ0J2SL._AC_SL1000_.jpg",
+      "rating": 5.0,
+      "reviews": 35
+    },
+    {
+      "id": "B086H3HH5V",
+      "name": "GP11 Shooter USB Gamepad",
+      "brand": "GP11",
+      "category": "Electronics",
+      "price": 660,
+      "description": "Enhance your gaming experience with the GP11 Shooter USB Gamepad. With ergonomic design and responsive controls, it's the perfect companion for your gaming adventures.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-PblYntsL._AC_SL1500_.jpg",
+      "rating": 4.8,
+      "reviews": 55
+    },
+    {
+      "id": "B089KV4YYB",
+      "name": "Quilted Satin Jacket",
+      "brand": "Quilted",
+      "category": "Clothing, Shoes & Jewelry",
+      "price": 660,
+      "description": "Stay warm and stylish with the Quilted Satin Jacket. Made from premium materials and featuring a sleek design, it's the perfect addition to your wardrobe.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61nW7JPRT2L._AC_SL1500_.jpg",
+      "rating": 4.5,
+      "reviews": 55
+    }
+  ]
+}
