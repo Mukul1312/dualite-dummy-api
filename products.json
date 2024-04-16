@@ -1,7 +1,7 @@
  [
     {
       "id": "B07VT2HJ91",
-      "name": "Breed Dry Dog Food",
+      "name": "Product 1",
       "brand": "Amazon",
       "category": "Electronics",
       "price": 100,
@@ -12,7 +12,7 @@
     },
     {
       "id": "B07K3KBJZ9",
-      "name": "CANON EOS DSLR Camera",
+      "name": "Product 2",
       "brand": "Canon",
       "category": "Electronics",
       "price": 360,
@@ -23,7 +23,7 @@
     },
     {
       "id": "B085M84XWK",
-      "name": "ASUS FHD Gaming Laptop",
+      "name": "Product 3",
       "brand": "Asus",
       "category": "Electronics",
       "price": 700,
@@ -34,7 +34,7 @@
     },
     {
       "id": "B08G9F63C2",
-      "name": "Curology Product Set",
+      "name": "Product 4",
       "brand": "Curology",
       "category": "Beauty & Personal Care",
       "price": 500,
@@ -45,7 +45,7 @@
     },
     {
       "id": "B08N5YP41P",
-      "name": "Kids Electric Car",
+      "name": "Product 5",
       "brand": "Kids Electric",
       "category": "Toys & Games",
       "price": 960,
@@ -56,7 +56,7 @@
     },
     {
       "id": "B07GBXGTTT",
-      "name": "Jr. Zoom Soccer Cleats",
+      "name": "Product 6",
       "brand": "Jr. Zoom",
       "category": "Sports & Outdoors",
       "price": 1160,
@@ -67,7 +67,7 @@
     },
     {
       "id": "B086H3HH5V",
-      "name": "GP11 Shooter USB Gamepad",
+      "name": "Product 7",
       "brand": "GP11",
       "category": "Electronics",
       "price": 660,
@@ -78,7 +78,7 @@
     },
     {
       "id": "B089KV4YYB",
-      "name": "Quilted Satin Jacket",
+      "name": "Product 8",
       "brand": "Quilted",
       "category": "Clothing, Shoes & Jewelry",
       "price": 660,
